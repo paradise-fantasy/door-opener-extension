@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Door-opener Extension",
+    "description": "An extension that opens doors"
+  },
+  "appDescription": {
+    "message": "Opens the door",
+    "description": "An app that opens doors"
+  }
+}
