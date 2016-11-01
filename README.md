@@ -7,8 +7,13 @@ npm install -g yo gulp bower
 npm install -g generator-chrome-extension
 ```
 
+### Installation
+```
+npm install
+```
+
 ### Scripts
 ```
-yo watch
-yo build
+gulp watch
+gulp build
 ```
